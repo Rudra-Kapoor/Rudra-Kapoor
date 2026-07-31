@@ -25,8 +25,9 @@ Full Stack Developer with hands-on experience shipping **production web applicat
 
 - 🔭 Currently building full-stack internal business platforms **@ Crystal Group**
 - 🧠 Strong in **REST API design, RBAC auth (JWT), microservices & AI/LLM integration**
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning** (2022 – 2026)
+- 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 - 💡 Foundation in **DSA, OOP, DBMS, System Design & Computer Networks**
+- 🌐 Explore my work & projects on my [**Portfolio**](https://rudra-portfolio-seven.vercel.app/)
 - 📫 Reach me at **kapoorrudraa@gmail.com**
 
 ---
@@ -78,37 +79,6 @@ Full Stack Developer with hands-on experience shipping **production web applicat
 
 ---
 
-## 💼 Experience
-
-**🏢 Crystal Group — Software Developer** &nbsp;·&nbsp; _May 2026 – Present · Kolkata, India_
-- Design & develop full-stack internal business apps with **Next.js (App Router, Server Actions)** & **PostgreSQL**.
-- Architect normalized schemas with foreign keys, constraints & indexing for multi-table workflows.
-- Build reusable, type-safe UI + server API routes with **RBAC** and secure auth, deployed via **CI/CD**.
-- Shipped a **Delegation Platform** (multi-level approval workflows, dashboards, notifications).
-- Shipped an internal **Recruitment Platform** (staged hiring pipelines, indexed search, automated notifications).
-
-**🌱 Jamuna Foundation — Web Development Intern** &nbsp;·&nbsp; _Oct 2025 – Jan 2026_
-- Built a full-stack **Donation Platform** with REST APIs & MongoDB.
-- Developed a responsive React UI with optimized client-side validation.
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 AI Shorts Studio
-> Converts long videos into AI-generated, captioned shorts using Whisper, LLMs & FFmpeg. Event-driven architecture with Redis workers — runs entirely within free-tier limits.
-
-**Tech:** Next.js · TypeScript · Python · FastAPI · FFmpeg · MongoDB · Redis · Docker · LLM APIs
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudra-Kapoor/ai-shorts-studio)
-
-### 💰 FamTrack — Family Expense Tracker
-> MERN expense tracker with JWT auth, family expense sharing & optimized recurring-expense handling.
-
-**Tech:** MongoDB · Express.js · React · Node.js · JWT · Redux Toolkit
-[![Live](https://img.shields.io/badge/Live_App-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://famtrack-1.onrender.com/)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -123,15 +93,6 @@ Full Stack Developer with hands-on experience shipping **production web applicat
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rudra-Kapoor&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="Trophies" />
 </p>
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **B.Tech, Artificial Intelligence & Machine Learning** — Chandigarh Engineering College, Mohali _(2022 – 2026)_
-- 🏫 **Class 12 (CBSE) — 90%** — Baluni Public School, Agra _(2022)_
-- 📄 [Introduction to MongoDB for Students](https://drive.google.com/file/d/1Jc-E9UhSKIgMOV9VBUs1Bz8FUSdqO-mg/view)
-- 📄 [AI Foundation Certification — Infosys](https://drive.google.com/file/d/1NLl9CyQcv0q7x07LCq6ykgFfMUd1y-tB/view)
 
 ---
 
