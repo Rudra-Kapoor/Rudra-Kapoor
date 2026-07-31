@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rudra-kapoor-86b0412ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://rudra-portfolio-seven.vercel.app/" target="_blank">
+  <a href="https://rudrakapoor-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:kapoorrudraa@gmail.com">
@@ -27,7 +27,7 @@ Full Stack Developer with hands-on experience shipping **production web applicat
 - 🧠 Strong in **REST API design, RBAC auth (JWT), microservices & AI/LLM integration**
 - 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 - 💡 Foundation in **DSA, OOP, DBMS, System Design & Computer Networks**
-- 🌐 Explore my work & projects on my [**Portfolio**](https://rudra-portfolio-seven.vercel.app/)
+- 🌐 Explore my work & projects on my [**Portfolio**](https://rudrakapoor-portfolio.vercel.app/)
 - 📫 Reach me at **kapoorrudraa@gmail.com**
 
 ---
@@ -102,7 +102,7 @@ Full Stack Developer with hands-on experience shipping **production web applicat
   <a href="https://www.linkedin.com/in/rudra-kapoor-86b0412ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://rudra-portfolio-seven.vercel.app/" target="_blank">
+  <a href="https://rudrakapoor-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:kapoorrudraa@gmail.com">
